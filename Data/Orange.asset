@@ -1,0 +1,731 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f58703d43cae1242af014597dbcc41b, type: 3}
+  m_Name: Orange
+  m_EditorClassIdentifier: 
+  songName: Orange
+  artistName: 
+  difficulty: 
+  thumbnail: {fileID: 0}
+  songAudio: {fileID: 8300000, guid: 3f3400d14b8882f4c897ce483629da52, type: 3}
+  notes:
+  - timeToSpawn: 5.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 18
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 20
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 21.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 23
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 24.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 25.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 27
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 28
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 29.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 30.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 32
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 33
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 34
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 35
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 36
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 37
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 38
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 39
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 40
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 40.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 42
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 42.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 44
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 45
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 46
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 47
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 48
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 49
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 50.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 51
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 52.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 53.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 55
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 55.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 57.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 58.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 60
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 61
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 62
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 63.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 64.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 66
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 68
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 69
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 70
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 71
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 72.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 73.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 74.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 76.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 77.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 78.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 79.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 81
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 82.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 83.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 85
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 86
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 87
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 88
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 89.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 90.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 91
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 95.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 96.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 98
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 99
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 100.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 102
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 103
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 104.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 106
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 107
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 108
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 109
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 110.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 111.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 113
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 115
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 116.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 118
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 119
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 120.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 122
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 123
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 125
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 126
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 127.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 128.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 130
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 131
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 132
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 133
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 134
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 135
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 137
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 138.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 140
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 142.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 145
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 147
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 147
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 149
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 150.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 152
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 154.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 156
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 158
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 159.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 160.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 162
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 163.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 165
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 166.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 168
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 169
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 170.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 171.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 173
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 174
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 175
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 176.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 177.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 179
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 180
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 181.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 183.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 184.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 186
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 187.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 189
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 190
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 193.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 194.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 195.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 197
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 198.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 200
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 201
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 202
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 203.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 205
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 206
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 208
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 209
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 211.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 213
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 214
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 215.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 217
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 218
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 219.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 220.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 222
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 223
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 224
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 225
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 226
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 227
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 228
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 229
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 230
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 231
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 232
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 232.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 233.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 234.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 236
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 237
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 239
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 240
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 241.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 243
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 244.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 245.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 247
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 248.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 250
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 251.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 253
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 254.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 255.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 256.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 257.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 258.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 261
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 261.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 262.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 265
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 266.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 267.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 268.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 270.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 272
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 272.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 274.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 276.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 278.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 279.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 281
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 282
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 282.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 284
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 285
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 286.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 288
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 289.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 290.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 292.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 294
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 295.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 297
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 298.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 300.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 302.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 304.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 306.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 308
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 310.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 312.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 314.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 316.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 318
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 319.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 321.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 323.5
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 324.5
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 325.5
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 328
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 329
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 331
+    laneIndex: 0
+    duration: 0
+  - timeToSpawn: 332.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 335
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 336.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 338
+    laneIndex: 1
+    duration: 0
+  - timeToSpawn: 339
+    laneIndex: 0
+    duration: 0

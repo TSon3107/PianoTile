@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f58703d43cae1242af014597dbcc41b, type: 3}
+  m_Name: Bad Liar
+  m_EditorClassIdentifier: 
+  songName: Bad Liar
+  artistName: 
+  difficulty: 
+  thumbnail: {fileID: 0}
+  songAudio: {fileID: 8300000, guid: c0eb8cd80e0b42044968d8d3eafa44c9, type: 3}
+  notes:
+  - timeToSpawn: 5.5
+    laneIndex: 0
+    duration: 0.5
+  - timeToSpawn: 10.5
+    laneIndex: 1
+    duration: 1.5
+  - timeToSpawn: 18.5
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 22
+    laneIndex: 1
+    duration: 0.5
+  - timeToSpawn: 23.5
+    laneIndex: 0
+    duration: 0.5
+  - timeToSpawn: 25
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 25
+    laneIndex: 2
+    duration: 0
+  - timeToSpawn: 27
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 28
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 29
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 30
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 31
+    laneIndex: 3
+    duration: 0
+  - timeToSpawn: 31.5
+    laneIndex: 3
+    duration: 0.5
+  - timeToSpawn: 33
+    laneIndex: 3
+    duration: 0
